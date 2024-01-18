@@ -40,3 +40,10 @@ nav {
 .card-title {
   font-size: 20px;
 }
+.search-btn {
+  position: absolute;
+  top: 0.27rem;
+  right: 0.5rem;
+  color: #fff;
+  background-color: #000;
+}
